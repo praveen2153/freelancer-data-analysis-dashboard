@@ -1,4 +1,3 @@
-# freelancer-data-analysis-dashboard
 
 # 📊 Freelancer Data Analysis Dashboard
 
